@@ -1,0 +1,7 @@
+# 下載產物
+*.txt
+# 執行暫存
+_tmp_font.*
+progress.json
+__pycache__/
+*.pyc
